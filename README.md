@@ -31,7 +31,7 @@ pip freeze > requirements.txt
 #Sube los archivos a GitHub
 Cree un repositorio PÚBLICO en GitHub y cargue los archivos .py y el archivo requirements.txt.
 
-![Portada](Str_github.jpg)
+![Portada](Str_github.png)
 
 # Iniciar sesión en Streamlit Sharing
 Vaya al siguiente sitio web e inicie sesión con su cuenta de GitHub.
@@ -45,6 +45,7 @@ Autoriza Streamlit y dale acceso a tus repositorios de Github.
 ![Portada](Str_2.jpg)
 
 Haga clic en Nueva aplicación
+
 ![Portada](Str_3.jpg)
 
 Seleccione su repositorio y rama. En mi caso, es la rama maestra del repositorio llamada 'Despliegue-Iris-Streamlit'
