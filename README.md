@@ -5,7 +5,7 @@ Streamlit es un marco de Python de código abierto para crear aplicaciones web p
 
 Hasta la llegada de Streamlit, Flask y Django eran las bibliotecas goto que los desarrolladores optaban por utilizar para desarrollar e implementar su aplicación en la web ; sin embargo, ambos marcos requerían que el usuario escribiera código HTML / CSS para representar su trabajo como una aplicación web. Streamlit abstrae todo esto y proporciona una interfaz pitónica fácil para agregar componentes personalizados como controles deslizantes, menús desplegables, formularios, etc.
 
-![Portada](despliegue.png)
+![Portada](despliege.png)
 
 # Implemente su aplicación web de aprendizaje automático mediante Streamlit Sharing
 
