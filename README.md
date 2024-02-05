@@ -28,3 +28,33 @@ Cree un archivo requirements.txt con las dependencias. A continuación se muestr
 ```python
 pip freeze > requirements.txt
 ```
+#Sube los archivos a GitHub
+Cree un repositorio PÚBLICO en GitHub y cargue los archivos .py y el archivo requirements.txt.
+
+![Portada](Str_github.jpg)
+
+# Iniciar sesión en Streamlit Sharing
+Vaya al siguiente sitio web e inicie sesión con su cuenta de GitHub.
+
+![Portada](Str_4.jpg)
+
+Autoriza Streamlit y dale acceso a tus repositorios de Github.
+
+# Crea una nueva aplicación
+
+![Portada](Str_2.jpg)
+
+Haga clic en Nueva aplicación
+![Portada](Str_3.jpg)
+
+Seleccione su repositorio y rama. En mi caso, es la rama maestra del repositorio llamada 'Despliegue-Iris-Streamlit'
+
+La ruta del archivo principal debe contener la ruta a su archivo app.py o el archivo .py que tiene el código para la IU de Streamlit. Si su archivo app.py está dentro de una carpeta llamada 'app', la ruta será 'app / app.py'. Asegúrese de proporcionar la ruta correcta. Una vez que haya completado la información correcta, haga clic en Implementar.
+
+Ahora siéntate y relájate ☺️
+
+Una vez que se complete la implementación, recibirá un mensaje de éxito y podrá ver una demostración de su aplicación.
+
+https://despliegue-iris-app-d8asmzy4y44jrgf5ksldth.streamlit.app/
+
+
