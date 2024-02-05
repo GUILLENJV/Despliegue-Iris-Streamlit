@@ -19,7 +19,7 @@ A continuación, cree un repositorio en su GitHub que contenga tres archivos: el
 A continuación, vaya a esta página e inicie sesión con su cuenta de GitHub.
 Ahora debería ver la siguiente página después de iniciar sesión.
 
-![Portada](Streamlit.png)
+![Portada](Str_1.png)
 
 # Obtenga acceso a Streamlit Sharing
 
