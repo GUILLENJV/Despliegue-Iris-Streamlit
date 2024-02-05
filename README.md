@@ -25,7 +25,6 @@ Ahora debería ver la siguiente página después de iniciar sesión.
 # Crea un archivo de texto con las bibliotecas necesarias
 Cree un archivo requirements.txt con las dependencias. A continuación se muestra el comando para crear el archivo
 
-´´´python
+```python
 pip freeze > requirements.txt
-´´´
-
+```
