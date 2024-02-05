@@ -16,13 +16,16 @@ Por eso, usemos el uso compartido de Streamlit para implementar la aplicación. 
 Lo primero que debe hacer es solicitar una invitación para compartir Streamlit. Puede hacerlo accediendo a esta página . Todo lo que necesita hacer es ingresar su nombre y el correo electrónico que usa para su cuenta de GitHub. Si no recuerda su correo electrónico, puede hacerlo iniciando sesión en su cuenta de GitHub, luego vaya a Configuración. En la Configuración, seleccione Correos electrónicos y verá su dirección de correo electrónico.
 A continuación, cree un repositorio en su GitHub que contenga tres archivos: el archivo Python para crear la aplicación web, el archivo pickle del modelo de clasificador que hemos creado y un archivo de texto llamado requirements.txt. Este archivo de texto debe contener todas las dependencias que necesitamos para crear nuestra aplicación.
 
+# Obtenga acceso a Streamlit Sharing
 A continuación, vaya a esta página e inicie sesión con su cuenta de GitHub.
 Ahora debería ver la siguiente página después de iniciar sesión.
 
 ![Portada](Str_1.jpg)
 
-# Obtenga acceso a Streamlit Sharing
+# Crea un archivo de texto con las bibliotecas necesarias
+Cree un archivo requirements.txt con las dependencias. A continuación se muestra el comando para crear el archivo
 
-Streamlit Sharing se encuentra actualmente en su modo beta y debes unirte a la lista de espera para acceder a él. Por lo general, toma unos días obtener acceso, lo obtuve en 72 horas. Vaya a su sitio web y regístrese
+'''
+pip freeze > requirements.txt
 
-![Portada](Streamlit.png)
+'''
