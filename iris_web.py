@@ -3,6 +3,10 @@ import streamlit as st
 import pickle
 import pandas as pd
 
+#Cargamos y mostramos el logo de la barra lateral
+logo = "iris.JPG"
+st.sidebar.image(logo, width=300)
+
 #Extrar los archivos pickle
 with open('lin_reg.pkl', 'rb') as li:
     lin_reg = pickle.load(li)
